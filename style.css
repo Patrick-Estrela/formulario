@@ -1,0 +1,34 @@
+.body{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(19, 87, 143);
+}
+.formulario{
+    text-align: center;    
+    align-items: justify;
+    background-color: grey;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.cor{
+    width: 100%;
+}
+.tabela{
+    height: fit-content;
+    color: white;
+    border: 1px white;
+    width: 100%;
+    padding: 20px 20%;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img2{
+    border-radius: 50px;
+    height: 100%;
+    width: 100%;
+}
